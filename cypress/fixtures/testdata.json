@@ -1,0 +1,8 @@
+{
+
+    "cryptoSwap": ["Bitcoin", "Tether", "Cardano", "Dogecoin", "Solana", "Ethereum"],
+    "cryptoBuy": ["Tether", "Cardano", "Dogecoin", "Solana", "Ethereum", "DeFiChain"],
+    "input1": 1,
+    "input2": 13.52,
+    "swapVal": "Tether"
+}
